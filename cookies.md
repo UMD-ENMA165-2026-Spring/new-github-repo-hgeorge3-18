@@ -9,6 +9,8 @@ _A quiz and easy recipe!_
 - butter
 
 **Make sure _NOT_ to overbake the cookies!**
+> [!WARNING]
+> Make sure to use protective gear when handling hot pans!
 
 This repository is for @guyer 's ENMA165 Spring 2026 class. 
 
