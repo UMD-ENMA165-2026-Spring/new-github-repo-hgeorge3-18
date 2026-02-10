@@ -1,4 +1,4 @@
-# Cookies Recipe
+# Cookies Recipe 🍪
 _A quiz and easy recipe!_
 ## Ingredients
 - brown sugar
@@ -10,5 +10,6 @@ _A quiz and easy recipe!_
 
 **Make sure _NOT_ to overbake the cookies!**
 
+This repository is for @guyer 's ENMA165 Spring 2026 class. 
 
 
