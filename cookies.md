@@ -22,6 +22,10 @@ _A quiz and easy recipe!_
 > [!WARNING]
 > Use protective gear (mittens) when handling hot pans!
 
+### Reasoning Behind Repo Settings 
+>> Since this is a cookie recipe, I named it accordingly as cookies.md. Since this is a practice repository, I made it public and under the creative commons liscense. This repository could be used for educational purposes for showing how to use different features in markdown. 
+
+@guyer 
 This repository is for @guyer 's ENMA165 Spring 2026 class. 
 
 
